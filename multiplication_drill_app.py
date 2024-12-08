@@ -92,11 +92,10 @@ def generate_pdf():
 st.title("Multiplication Drill Generator")
 st.write("Click the button below to generate and download your worksheet.")
 
-if st.button("Generate Worksheet"):
-    pdf = generate_pdf()  # Call the generate_pdf function
-    st.download_button(
-        label="Download Worksheet",
-        data=pdf,
-        file_name="multiplication_drill.pdf",
-        mime="application/pdf"
-    )
+pdf = generate_pdf()  # Call the generate_pdf function
+st.download_button(
+    label="Download Worksheet",
+    data=pdf,
+    file_name="multiplication_drill.pdf",
+    mime="application/pdf"
+)
