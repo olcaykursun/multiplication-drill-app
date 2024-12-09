@@ -24,3 +24,15 @@ To run the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/olcaykursun/multiplication-drill-app.git
+2. Navigate to the project directory:
+   ```bash
+   cd your-repo
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Run the app:
+   ```bash
+   streamlit run app.py
+
+## Contribution
+We welcome contributions! Feel free to fork the repository, make changes, and submit a pull request.
