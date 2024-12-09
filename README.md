@@ -32,7 +32,7 @@ To run the project locally:
    pip install -r requirements.txt
 4. Run the app:
    ```bash
-   streamlit run app.py
+   streamlit run multiplication_drill_app.py
 
 ## Contribution
 We welcome contributions! Feel free to fork the repository, make changes, and submit a pull request.
