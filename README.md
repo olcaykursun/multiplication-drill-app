@@ -2,6 +2,9 @@
 
 A Streamlit-based application for generating customizable multiplication worksheets for elementary school students. This tool helps teachers create engaging exercises, including easy and hard questions, with options to download worksheets as PDFs.
 
+## Sample Worksheet
+![Sample PDF](multiplication_worksheet.pdf)
+
 ## Features
 - Automatically generates multiplication questions.
 - Includes easy questions (random operands) and hard questions (operands between 6-9).
