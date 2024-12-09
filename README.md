@@ -1,6 +1,6 @@
 # Multiplication Drill Generator
 
-A Streamlit-based application for generating customizable multiplication worksheets for students. This tool helps teachers create engaging exercises, including easy and hard questions, with options to download worksheets as PDFs.
+A Streamlit-based application for generating customizable multiplication worksheets for elementary school students. This tool helps teachers create engaging exercises, including easy and hard questions, with options to download worksheets as PDFs.
 
 ## Features
 - Automatically generates multiplication questions.
