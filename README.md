@@ -10,12 +10,12 @@ A Streamlit-based application for generating customizable multiplication workshe
 - Designed for teachers and educators.
 
 ## Demo
-Try the live app here: [Multiplication Drill Generator](https://share.streamlit.io/your-app-link)
+Try the live app here: [Multiplication Drill Generator](https://multiplication-drill-app-e3p5p7jx8dmyq6bkofitmq.streamlit.app/)
 
-![App Screenshot](path/to/screenshot.png)
+![App Screenshot](screenshot.png)
 
 ## How to Use
-1. Open the [live app](https://share.streamlit.io/your-app-link).
+1. Open the [live app]((https://multiplication-drill-app-e3p5p7jx8dmyq6bkofitmq.streamlit.app/).
 2. Click the "Generate Worksheet" button.
 3. Download the generated worksheet as a PDF.
 
@@ -26,7 +26,7 @@ To run the project locally:
    git clone https://github.com/olcaykursun/multiplication-drill-app.git
 2. Navigate to the project directory:
    ```bash
-   cd your-repo
+   cd multiplication-drill-app
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
